@@ -1,2 +1,3 @@
-# numenera_charas
-numenera characters
+# numenera charas
+
+[Ed](http://www.prime-junta.net/numenera/#version=1.1.0&origin=numenera&recursion=ninth_world&descriptor=D7&type=T1&focus=F22&finalized=false&tier=1&cyphers=3&selects=6-4-5&inputs=Ed-0-0-9-0-10-0-17-1-1-1-4-3-0-1-%3F-serpent%20(used)-magnetic%20boot-spear-eye%20in%20a%20globe%20%3F-&extra_equipment_text=explorer's%20pack&notes_text=Nano%3A%20Corebook%2C%20page%2032%0ARides%20the%20Lightning%3A%20Corebook%2C%20page%2071%0AMystical%2FMechanical%3A%20Corebook%2C%20page%2049&description_text=Nanos%20are%20the%20'wizards'%20of%20the%20Ninth%20World%2C%20performing%20miracles%20through%20the%20numenera.%0AConnection%3A%20One%20PC%20is%20an%20old%20friend%2C%20and%20can%20come%20along%20with%20Bolt%20Rider%20or%20Electrical%20Flight.%0A&extra_abilities_text=&disabled=000000000000000000000000&deleted=000000&recursions=&_recursion_id=&cust=00000000cm)
